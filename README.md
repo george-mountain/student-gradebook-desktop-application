@@ -4,7 +4,7 @@ Here's a structured README file for your Student Gradebook project, adhering to 
 
 # Student Gradebook Application
 
-![Application Demo Screenshot](logos/logo1.png)
+![Application Demo Screenshot](app_screenshot.png)
 
 ## Overview
 
