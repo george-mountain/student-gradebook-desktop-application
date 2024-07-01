@@ -1,0 +1,4 @@
+
+matplotlib==3.9.0
+reportlab==4.2.2
+ttkbootstrap @ git+https://github.com/israel-dryer/ttkbootstrap@fdb5da50c43876e6025938265f4d7e3568c56560
